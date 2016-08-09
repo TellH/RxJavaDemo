@@ -1,3 +1,5 @@
+package frame;
+
 public class OperatorFilter<T> implements Observable.Operator<T, T> {
     private IFun<? super T, Boolean> fun;
 

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="io.reactivex:rxjava:1.1.8" type="repository">
+    <properties maven-id="io.reactivex:rxjava:1.1.8" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-1.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,3 +1,5 @@
+package frame;
+
 public class Observable<T> {
     protected OnAttach<T> onAttach;
 

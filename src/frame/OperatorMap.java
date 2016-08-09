@@ -1,3 +1,5 @@
+package frame;
+
 public class OperatorMap<T,R> implements Observable.Operator<R ,T> {
     private IFun<? super T,? extends R> convert;
 
